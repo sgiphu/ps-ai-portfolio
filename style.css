@@ -356,7 +356,12 @@ height: 300px;
 
 object-fit: cover;
 ```
-
+/*.project-card img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto; */
+}
 }
 
 /* Project Text */
